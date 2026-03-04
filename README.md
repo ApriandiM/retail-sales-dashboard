@@ -71,7 +71,7 @@ The business team struggled to monitor sales performance in real-time and lacked
 
 ![Dashboard Preview](dashboard-preview.png)
 
-> 💡 *Replace this with an actual screenshot of your dashboard*
+
 
 ---
 
